@@ -1,0 +1,146 @@
+2023.07.03 00:13:16 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04' for client Visual Studio Code 1.79.2.
+Jul 03, 2023 12:13:16 AM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+Jul 03, 2023 12:13:16 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Jul 03, 2023 12:13:16 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Jul 03, 2023 12:13:17 AM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\.metals\metals (H2 2.1)
+Jul 03, 2023 12:13:17 AM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFO: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+Jul 03, 2023 12:13:17 AM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.039s)
+Jul 03, 2023 12:13:17 AM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFO: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+Jul 03, 2023 12:13:17 AM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": << Empty Schema >>
+Jul 03, 2023 12:13:17 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "1 - Create tables"
+Jul 03, 2023 12:13:17 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "2 - Server discovery"
+Jul 03, 2023 12:13:17 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+Jul 03, 2023 12:13:17 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+Jul 03, 2023 12:13:17 AM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.115s)
+2023.07.03 00:13:18 INFO  time: initialize in 1.3s
+2023.07.03 00:13:21 WARN  Build server is not auto-connectable.
+2023.07.03 00:13:21 WARN  no build tool detected in workspace 'C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.07.03 00:13:21 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\1.scala
+2023.07.03 00:13:29 INFO  no build target found for C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\1.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.07.03 00:13:32 INFO  time: code lens generation in 11s
+2023.07.03 00:13:32 INFO  time: code lens generation in 9.79s
+2023.07.03 00:14:45 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\1.scala
+Jul 03, 2023 12:53:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 242
+Jul 03, 2023 12:53:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 246
+Jul 03, 2023 12:54:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 263
+2023.07.03 01:50:15 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\1.scala
+2023.07.03 01:50:18 INFO  Shutting down server
+2023.07.03 01:50:18 INFO  shutting down Metals
+2023.07.03 01:50:18 INFO  Exiting server
+2023.07.04 09:28:16 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04' for client Visual Studio Code 1.79.2.
+Jul 04, 2023 9:28:16 AM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+Jul 04, 2023 9:28:16 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Jul 04, 2023 9:28:16 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Jul 04, 2023 9:28:17 AM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\.metals\metals (H2 2.1)
+Jul 04, 2023 9:28:17 AM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.046s)
+Jul 04, 2023 9:28:17 AM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+Jul 04, 2023 9:28:17 AM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.07.04 09:28:17 INFO  time: initialize in 1.24s
+2023.07.04 09:28:20 WARN  Build server is not auto-connectable.
+2023.07.04 09:28:20 WARN  no build tool detected in workspace 'C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.07.04 09:28:20 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\1.scala
+2023.07.04 09:28:28 INFO  no build target found for C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\1.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.07.04 09:28:33 INFO  time: code lens generation in 13s
+Jul 04, 2023 9:33:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 140
+Jul 04, 2023 9:34:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 310
+Jul 04, 2023 10:16:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 965
+Jul 04, 2023 10:17:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1000
+Jul 04, 2023 10:18:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1190
+2023.07.04 10:18:50 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\1.scala
+Jul 04, 2023 10:19:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1371
+2023.07.04 10:19:19 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\1.scala
+Jul 04, 2023 10:20:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1484
+Jul 04, 2023 10:20:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1497
+2023.07.04 10:20:18 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\1.scala
+2023.07.04 10:21:05 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 03\Q1.scala
+Jul 04, 2023 10:21:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1559
+2023.07.04 10:21:38 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\1.scala
+Jul 04, 2023 10:21:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1590
+2023.07.04 10:22:02 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\1.scala
+2023.07.04 10:22:38 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\1.scala
+2023.07.04 10:24:41 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 03\Q2.scala
+2023.07.04 10:24:53 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 03\Q3.scala
+2023.07.04 10:25:16 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\1.scala
+2023.07.04 10:26:41 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\1.scala
+2023.07.04 10:27:23 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\2.scala
+2023.07.04 10:27:39 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\1.scala
+Jul 04, 2023 10:34:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2688
+Jul 04, 2023 10:34:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2782
+2023.07.04 10:35:17 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\2.scala
+2023.07.04 10:36:10 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\1.scala
+2023.07.04 10:36:18 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\3.scala
+Jul 04, 2023 10:36:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2999
+Jul 04, 2023 10:37:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3264
+Jul 04, 2023 10:38:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3390
+Jul 04, 2023 10:38:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3396
+Jul 04, 2023 10:38:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3535
+Jul 04, 2023 10:41:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3934
+Jul 04, 2023 10:58:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4224
+2023.07.04 10:58:07 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\3.scala
+Jul 04, 2023 11:04:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4285
+Jul 04, 2023 11:04:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4319
+Jul 04, 2023 11:12:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4431
+Jul 04, 2023 11:13:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4514
+Jul 04, 2023 11:18:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4958
+2023.07.04 11:19:54 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\3.scala
+2023.07.04 11:34:40 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\3.scala
+2023.07.04 11:35:51 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\3.scala
+Jul 04, 2023 11:39:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5531
+2023.07.04 11:41:01 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\3.scala
+2023.07.04 11:41:51 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\3.scala
+2023.07.04 11:42:32 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\3.scala
+2023.07.04 11:42:47 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\3.scala
+Jul 04, 2023 11:43:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6047
+2023.07.04 11:43:22 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\3.scala
+2023.07.04 11:44:14 INFO  Shutting down server
+2023.07.04 11:44:14 INFO  shutting down Metals
+2023.07.04 11:44:14 INFO  Exiting server
