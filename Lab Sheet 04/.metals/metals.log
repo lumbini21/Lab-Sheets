@@ -144,3 +144,86 @@ WARNING: Unmatched cancel notification for request id 6047
 2023.07.04 11:44:14 INFO  Shutting down server
 2023.07.04 11:44:14 INFO  shutting down Metals
 2023.07.04 11:44:14 INFO  Exiting server
+2023.07.07 12:41:54 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04' for client Visual Studio Code 1.80.0.
+Jul 07, 2023 12:41:54 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+Jul 07, 2023 12:41:54 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Jul 07, 2023 12:41:54 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Jul 07, 2023 12:41:55 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\.metals\metals (H2 2.1)
+Jul 07, 2023 12:41:55 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.055s)
+Jul 07, 2023 12:41:55 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+Jul 07, 2023 12:41:55 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.07.07 12:41:55 INFO  time: initialize in 1.44s
+2023.07.07 12:41:59 WARN  Build server is not auto-connectable.
+2023.07.07 12:41:59 WARN  no build tool detected in workspace 'C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.07.07 12:41:59 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\3.scala
+2023.07.07 12:41:59 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\2.scala
+2023.07.07 12:41:59 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\1.scala
+2023.07.07 12:42:10 INFO  no build target found for C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\2.scala. Using presentation compiler with project's scala-library version: 3.2.2
+Jul 07, 2023 12:42:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Jul 07, 2023 12:42:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+2023.07.07 12:42:15 INFO  time: code lens generation in 1.18s
+2023.07.07 12:42:15 INFO  time: code lens generation in 4.08s
+2023.07.07 12:42:15 INFO  time: code lens generation in 4.12s
+2023.07.07 12:42:15 INFO  time: code lens generation in 15s
+Exception in thread "pool-3-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-3-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.07.07 12:44:50 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\2.scala
+Exception in thread "pool-3-thread-3" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-3-thread-4" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.07.07 13:11:01 WARN  no build target for: C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\3.scala
+Jul 07, 2023 1:33:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 330
+Jul 07, 2023 1:34:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 335
+2023.07.08 17:02:43 INFO  Shutting down server
+2023.07.08 17:02:43 INFO  shutting down Metals
+2023.07.08 17:02:43 INFO  Exiting server
+2023.07.10 12:52:59 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04' for client Visual Studio Code 1.80.0.
+Jul 10, 2023 12:52:59 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+Jul 10, 2023 12:52:59 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Jul 10, 2023 12:52:59 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Jul 10, 2023 12:53:00 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:C:\Users\Lumbini\Desktop\UCSC\2nd Year\2nd Year 1st Sem\SCS2204 - Functional Programming\Lab Sheets\Lab Sheet 04\.metals\metals (H2 2.1)
+Jul 10, 2023 12:53:00 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.062s)
+Jul 10, 2023 12:53:00 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+Jul 10, 2023 12:53:00 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.07.10 12:53:00 INFO  time: initialize in 1.35s
